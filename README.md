@@ -15,6 +15,15 @@ Add your timetable
 ### STEP 4
 Execute the program
 
+
+
+
+
+
+
+
+
+
 # CODE
 ![image](https://github.com/deepika3095/timetable/assets/151625159/e06acdd5-dd4d-499b-a4f7-2db3d3134449)
 ![image](https://github.com/deepika3095/timetable/assets/151625159/c8be8e04-7902-4069-96e0-184968708974)
